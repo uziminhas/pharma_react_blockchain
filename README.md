@@ -38,6 +38,8 @@ After the application loads, follow the steps below to create / sign a prescript
 (8) Refresh the page to send/sign another prescription.
 
 ## Checking test cases
+
+Open up Ganache on port 7545 and run the following commands from inside the project directory.
 ```
 $ truffle compile
 $ truffle migrate
