@@ -29,7 +29,7 @@ After the application loads, follow the steps below to create / sign a prescript
 
 (4) MetaMask pop-up will open; pay appropriate gas using Ether from Ropsten account; click "Submit" to send the transaction
 
-(5) Wait 15-30 seconds for transaction to be confirmed
+(5) A pop-up will appear indicating the prescription has been sent to the patient's address. Wait 15-30 seconds for transaction to be confirmed. You can copy the TxHash and view the pending transaction on the Ropsten etherscan (i.e. https://ropsten.etherscan.io/tx/{yourTxHashhere}
 
 (6) Open/inspect the browser's console window
 
