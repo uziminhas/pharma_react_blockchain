@@ -35,6 +35,8 @@ After the application loads, follow the steps below to create / sign a prescript
 
 (7) Click "Query latest prescription" button after transaction has been mined/confirmed. You will see the recently submitted prescription data in the browser's console, reflecting the state change of the smart contract.
 
+(8) Refresh the page to send/sign another prescription.
+
 ## Checking test cases
 ```
 $ truffle compile
