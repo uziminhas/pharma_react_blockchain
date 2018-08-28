@@ -39,7 +39,7 @@ After the application loads, follow the steps below to create / sign a prescript
 
 ## Checking test cases
 
-Open up Ganache on port 7545 and run the following commands from inside the project directory.
+Open up Ganache on port 8545 and run the following commands from inside the project directory.
 ```
 $ truffle compile
 $ truffle migrate
