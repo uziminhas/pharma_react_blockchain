@@ -1,3 +1,5 @@
+<h1 align="center"> ConsenSys Developer Academy 2018: Final Project </h1>
+
 ![logo](http://g.recordit.co/rqhzjb7tSI.gif)
 
 ## Introduction
