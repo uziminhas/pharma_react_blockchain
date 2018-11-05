@@ -1,3 +1,5 @@
+![logo](http://g.recordit.co/rqhzjb7tSI.gif)
+
 ## Introduction
 
 A project which tokenizes pharmaceutical prescriptions into an ERC-721 solidity contract standard. This non-fungible token carries metadata describing the doctor ID, the patient's public key, the drug RX Id, and the unit quantity to be dispensed.
