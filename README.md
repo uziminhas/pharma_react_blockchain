@@ -1,3 +1,14 @@
+## Introduction
+
+A project which tokenizes pharmaceutical prescriptions into an ERC-721 solidity contract standard. This non-fungible token carries metadata describing the doctor ID, the patient's public key, the drug RX Id, and the unit quantity to be dispensed.
+
+By creating a decentralized smart-contract standard that defines the method for ownership and transferability of a pharmaceutical script, the following goals can be achieved:
+
+1. Remove the possibility of counterfeit/forged prescriptions
+2. Enable regulatory insight into the quantity, concentration, movement, etc. of drugs
+3. Create an immutable record of the movement, quantity, and RX type of pharmacy scripts
+
+
 ## Getting started / running the application
 ```
 $ npm install
